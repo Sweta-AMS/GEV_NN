@@ -1,1 +1,3 @@
-Our trained neural network model. We recommend to user to use this trained model to evaluate the estimate's of GEV parameter by providing it the Percentiles values from the smaple to fit Generalized Extreme Value (GEV) distribution to univariate marginal samples.
+Our trained neural network model is recommended for users to evaluate GEV parameter estimates.
+This can be achieved by providing the model with percentile values from the sample, allowing it
+to fit the Generalized Extreme Value (GEV) distribution to univariate/ marginal samples.
