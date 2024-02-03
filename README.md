@@ -7,3 +7,12 @@ We have tried to describe the method used in the manuscript here along with prov
 Python Interface:
 One could use google colab to get started with the code, link is available here.
 
+Citing:
+This work is done as part of academic research. If you would like to support it, please star the repository. If you use it in your research or other activities, please also use the following citation.
+
+@article{rai2023fast,
+  title={Fast parameter estimation of Generalized Extreme Value distribution using Neural Networks},
+  author={Rai, Sweta and Hoffman, Alexis and Lahiri, Soumendra and Nychka, Douglas W and Sain, Stephan R and Bandyopadhyay, Soutir},
+  journal={arXiv preprint arXiv:2305.04341},
+  year={2023}
+}
