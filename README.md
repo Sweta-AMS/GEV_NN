@@ -10,9 +10,11 @@ One can get started with the code using Google Colab. [Google Colab](https://col
 ## Citing
 This undertaking is a result of academic research. If you find it valuable, please consider starring the repository. Additionally, if you integrate it into your research or other undertakings, we appreciate your acknowledgment through the following citation:
 
-```@article{rai2023fast,
+```
+@article{rai2023fast,
   title={Fast parameter estimation of Generalized Extreme Value distribution using Neural Networks},
   author={Rai, Sweta and Hoffman, Alexis and Lahiri, Soumendra and Nychka, Douglas W and Sain, Stephan R and Bandyopadhyay, Soutir},
   journal={arXiv preprint arXiv:2305.04341},
   year={2023}
-}```
+}
+```
