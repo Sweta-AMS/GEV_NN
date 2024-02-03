@@ -4,8 +4,8 @@ This repository contains code for reproducing the results in the paper titled **
 
 We have described the method used in the [`manuscript`](https://arxiv.org/pdf/2305.04341.pdf) here along with providing the Python notebook. The code in this repository is made available primarily for reproducibility purposes, and we encourage readers interested in using the trained neural network model to estimate the parameters of the GEV distribution to explore the provided resources.
 
-## [Python Interface](https://colab.research.google.com/_)
-One could use google colab to get started with the code. Google Colab is a cloud-based Jupyter notebook environment that supports Python. It allows you to write and execute Python code in a collaborative and interactive way.
+## [Python Interface](https://colab.research.google.com/)
+One can get started with the code using Google Colab. [Google Colab](https://colab.research.google.com/) is a cloud-based Jupyter notebook environment that supports Python, enabling you to write and execute code collaboratively and interactively.
 
 ## Citing
 This work is done as part of academic research. If you would like to support it, please star the repository. If you use it in your research or other activities, please also use the following citation.
