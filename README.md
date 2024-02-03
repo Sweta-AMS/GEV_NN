@@ -1,10 +1,10 @@
 # Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks
 
-This repository contains code for reproducing the results in **"Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks."** 
+This repository contains code for reproducing the results in the paper titled **"Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks."** 
 
-We have tried to describe the method used in the [`manuscript`](https://arxiv.org/pdf/2305.04341.pdf) . here along with providing the Python notebook  The code in this repository is made available primarily for reproducibility purposes, and we encourage readers seeking to use the training NN model "" to estimate the parameter of the GEV distribution for inference for large dataset to obtain a computation speedup and could use the bootstrap CI for the same thing. 
+We have described the method used in the [`manuscript`](https://arxiv.org/pdf/2305.04341.pdf) here along with providing the Python notebook. The code in this repository is made available primarily for reproducibility purposes, and we encourage readers interested in using the trained neural network model to estimate the parameters of the GEV distribution to explore the provided resources.
 
-Python Interface:
+## Python Interface
 One could use google colab to get started with the code. Google Colab is a cloud-based Jupyter notebook environment that supports Python. It allows you to write and execute Python code in a collaborative and interactive way.
 
 Citing:
