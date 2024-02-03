@@ -1,6 +1,6 @@
 # Paper: Fast parameter estimation of Generalized Extreme Value distribution using Neural Networks
 
-This repository contains code for reproducing the results in the paper titled ***"Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks."*** 
+This repository contains code for reproducing the results in the paper titled ***"Fast parameter estimation of Generalized Extreme Value distribution using Neural Networks."*** 
 
 We have described the method used in the [`manuscript`](https://arxiv.org/pdf/2305.04341.pdf) here along with providing the Python notebook. The code in this repository is made available primarily for reproducibility purposes, and we encourage readers interested in using the trained neural network model to estimate the parameters of the GEV distribution to explore the provided resources.
 
