@@ -1,4 +1,4 @@
-# Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks
+# Paper: Fast parameter estimation of Generalized Extreme Value distribution using Neural Networks
 
 This repository contains code for reproducing the results in the paper titled ***"Paper-Fast-parameter-estimation-of-Generalized-Extreme-Value-distribution-using-Neural-Networks."*** 
 
