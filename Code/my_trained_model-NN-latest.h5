@@ -1,4 +1,1 @@
-Trained neural model to GEV to the samples. Here the neural model is trained over a set with 300,000 
-different parameter configurations of the GEV parameters and could be treated as a function to estimate
-the GEV parameter given some percentiles. I suggest loading this model first and then using it to
-estimate the GEV parameters. Please check the jupyter notebook attached in this repository to implementation purpose.
+
